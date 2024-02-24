@@ -5,6 +5,7 @@ import Marquee from './components/Marquee'
 import About from './components/About'
 import Eyes from './components/Eyes'
 import Featured from './components/Featured'
+import Company from './components/Company'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <About/>
       <Eyes/>
       <Featured/>
+      <Company/>
     </div>
   )
 }
