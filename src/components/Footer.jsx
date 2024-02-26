@@ -115,7 +115,7 @@ function Footer() {
             </a>
           </div>
           <div className="developer w-1/2 flex items-center justify-end">
-            <a href="" className="text-zinc-500">
+            <a href="https://github.com/mayurk224" className="text-zinc-500">
               Website by Mayur Kamble
             </a>
           </div>
